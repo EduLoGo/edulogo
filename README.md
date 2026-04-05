@@ -5,11 +5,11 @@ Bio under construction.
 
 
 ## 🚀 Sobre Mí
-Front End Developer, proximamente Full Stack Developer! Y en otros momentos intento hacer música.
+Full Stack Developer! Y en otros momentos intento hacer música.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Node, ReactJS...
+Javascript, HTML, CSS, Node, ReactJS.
 
 
 ## 🔗 Links
